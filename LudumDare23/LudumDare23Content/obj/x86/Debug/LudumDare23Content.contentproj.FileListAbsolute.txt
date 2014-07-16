@@ -1,0 +1,6 @@
+C:\Users\Guillaume\Documents\My Games\LudumDare23\LudumDare23\LudumDare23Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Personnel\Prog\LudumDare23\LudumDare23\LudumDare23Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\My Games\tmp\LudumDare23\LudumDare23\LudumDare23Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Personnel\Prog\TinyWorld\LudumDare23\LudumDare23\LudumDare23Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Personnel\Prog\LudumDare23\LudumDare23\LudumDare23Content\obj\x86\Debug\ResolveAssemblyReference.cache

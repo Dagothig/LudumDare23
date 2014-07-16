@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sounds\VillagerTrain.wav</Source>
+      <Name>Sounds\VillagerTrain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\VillagerTrain.xnb</Output>
+      <Time>2012-04-22T20:04:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PriestTrain.wav</Source>
+      <Name>Sounds\PriestTrain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\PriestTrain.xnb</Output>
+      <Time>2012-04-22T20:02:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\WarriorTrain.wav</Source>
+      <Name>Sounds\WarriorTrain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\WarriorTrain.xnb</Output>
+      <Time>2012-04-22T20:07:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Death.wav</Source>
+      <Name>Sounds\Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Death.xnb</Output>
+      <Time>2012-04-22T20:11:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Pray.wav</Source>
+      <Name>Sounds\Pray</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Pray.xnb</Output>
+      <Time>2012-04-22T20:20:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Convert.wav</Source>
+      <Name>Sounds\Convert</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Convert.xnb</Output>
+      <Time>2012-04-22T20:30:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Summon.wav</Source>
+      <Name>Sounds\Summon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Summon.xnb</Output>
+      <Time>2012-04-22T20:32:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\DoBabies.wav</Source>
+      <Name>Sounds\DoBabies</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\DoBabies.xnb</Output>
+      <Time>2012-04-22T20:35:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Build.wav</Source>
+      <Name>Sounds\Build</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Build.xnb</Output>
+      <Time>2012-04-22T20:40:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Done.wav</Source>
+      <Name>Sounds\Done</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Done.xnb</Output>
+      <Time>2012-04-22T20:43:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Loss.wav</Source>
+      <Name>Sounds\Loss</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Loss.xnb</Output>
+      <Time>2012-04-27T15:10:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Win.wav</Source>
+      <Name>Sounds\Win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Win.xnb</Output>
+      <Time>2012-04-27T15:12:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TitleScreen.wav</Source>
+      <Name>Sounds\TitleScreen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\TitleScreen.xnb</Output>
+      <Time>2012-04-27T15:13:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\New.wav</Source>
+      <Name>Sounds\New</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\New.xnb</Output>
+      <Time>2012-04-24T02:47:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BuilderTrain.wav</Source>
+      <Name>Sounds\BuilderTrain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\BuilderTrain.xnb</Output>
+      <Time>2012-04-22T20:09:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hit1.wav</Source>
+      <Name>Sounds\Hit1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Hit1.xnb</Output>
+      <Time>2012-04-27T13:14:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hit2.wav</Source>
+      <Name>Sounds\Hit2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Hit2.xnb</Output>
+      <Time>2012-04-27T13:18:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hit3.wav</Source>
+      <Name>Sounds\Hit3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\Hit3.xnb</Output>
+      <Time>2012-04-27T13:17:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\IslandWin.wav</Source>
+      <Name>Sounds\IslandWin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\IslandWin.xnb</Output>
+      <Time>2012-04-27T15:09:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\IslandLose.wav</Source>
+      <Name>Sounds\IslandLose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\IslandLose.xnb</Output>
+      <Time>2012-04-28T02:07:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Barracks.png</Source>
+      <Name>Graphics\Barracks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Barracks.xnb</Output>
+      <Time>2012-05-04T02:29:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Bridge.png</Source>
+      <Name>Graphics\Bridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Bridge.xnb</Output>
+      <Time>2012-05-03T02:35:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Brow.png</Source>
+      <Name>Graphics\Brow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Brow.xnb</Output>
+      <Time>2012-05-05T02:11:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Builder.png</Source>
+      <Name>Graphics\Builder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Builder.xnb</Output>
+      <Time>2012-04-26T18:35:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Eye.png</Source>
+      <Name>Graphics\Eye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Eye.xnb</Output>
+      <Time>2012-04-21T17:04:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\FallingTree.png</Source>
+      <Name>Graphics\FallingTree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\FallingTree.xnb</Output>
+      <Time>2012-04-27T09:24:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Font.png</Source>
+      <Name>Graphics\Font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Font.xnb</Output>
+      <Time>2012-04-21T01:35:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\God.png</Source>
+      <Name>Graphics\God</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\God.xnb</Output>
+      <Time>2012-05-05T22:49:18.5889182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GodAngry.png</Source>
+      <Name>Graphics\GodAngry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\GodAngry.xnb</Output>
+      <Time>2012-05-05T07:21:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GodHappy.png</Source>
+      <Name>Graphics\GodHappy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\GodHappy.xnb</Output>
+      <Time>2012-05-05T23:19:49.4348999-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\House.png</Source>
+      <Name>Graphics\House</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\House.xnb</Output>
+      <Time>2012-04-27T09:14:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Island.png</Source>
+      <Name>Graphics\Island</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Island.xnb</Output>
+      <Time>2012-05-05T07:32:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Lightning.png</Source>
+      <Name>Graphics\Lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Lightning.xnb</Output>
+      <Time>2012-04-24T02:13:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Mouse.png</Source>
+      <Name>Graphics\Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Mouse.xnb</Output>
+      <Time>2012-04-21T02:24:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Mouth.png</Source>
+      <Name>Graphics\Mouth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Mouth.xnb</Output>
+      <Time>2012-05-05T02:45:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\PointBlanc.png</Source>
+      <Name>Graphics\PointBlanc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\PointBlanc.xnb</Output>
+      <Time>2012-04-22T00:04:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Priest.png</Source>
+      <Name>Graphics\Priest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Priest.xnb</Output>
+      <Time>2012-04-26T18:36:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Slider.png</Source>
+      <Name>Graphics\Slider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Slider.xnb</Output>
+      <Time>2012-04-21T01:45:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\SpecialEffects.png</Source>
+      <Name>Graphics\SpecialEffects</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\SpecialEffects.xnb</Output>
+      <Time>2012-04-22T18:10:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Temple.png</Source>
+      <Name>Graphics\Temple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Temple.xnb</Output>
+      <Time>2012-04-27T09:44:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\TextMenuBack.png</Source>
+      <Name>Graphics\TextMenuBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\TextMenuBack.xnb</Output>
+      <Time>2012-04-21T10:04:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\TitleScreen.png</Source>
+      <Name>Graphics\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\TitleScreen.xnb</Output>
+      <Time>2012-05-05T03:23:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Tree.png</Source>
+      <Name>Graphics\Tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Tree.xnb</Output>
+      <Time>2012-04-27T09:14:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Villager.png</Source>
+      <Name>Graphics\Villager</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Villager.xnb</Output>
+      <Time>2012-04-26T18:37:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Warrior.png</Source>
+      <Name>Graphics\Warrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Warrior.xnb</Output>
+      <Time>2012-04-26T18:37:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Workshop.png</Source>
+      <Name>Graphics\Workshop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Workshop.xnb</Output>
+      <Time>2012-05-05T00:54:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\NoteType1_0.wav</Source>
+      <Name>Sounds\NoteType1_0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\NoteType1_0.xnb</Output>
+      <Time>2012-04-29T20:57:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\NoteType1_1.wav</Source>
+      <Name>Sounds\NoteType1_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\NoteType1_1.xnb</Output>
+      <Time>2012-04-29T20:57:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\NoteType1_2.wav</Source>
+      <Name>Sounds\NoteType1_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\NoteType1_2.xnb</Output>
+      <Time>2012-04-29T20:57:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\NoteType1_3.wav</Source>
+      <Name>Sounds\NoteType1_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\NoteType1_3.xnb</Output>
+      <Time>2012-04-29T20:57:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\NoteType1_4.wav</Source>
+      <Name>Sounds\NoteType1_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Sounds\NoteType1_4.xnb</Output>
+      <Time>2012-04-29T20:57:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GreenHouse.png</Source>
+      <Name>Graphics\GreenHouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\GreenHouse.xnb</Output>
+      <Time>2012-05-05T04:07:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Cloud.png</Source>
+      <Name>Graphics\Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Cloud.xnb</Output>
+      <Time>2012-05-05T22:24:47.525265-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BackGround.png</Source>
+      <Name>Graphics\BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BackGround.xnb</Output>
+      <Time>2012-05-05T22:47:10.1240587-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BackGround800.png</Source>
+      <Name>Graphics\BackGround800</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BackGround800.xnb</Output>
+      <Time>2012-08-21T22:08:20.5129827-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Boutton.png</Source>
+      <Name>Graphics\Boutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\Boutton.xnb</Output>
+      <Time>2012-08-21T22:37:11.50899-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonExit.png</Source>
+      <Name>Graphics\BouttonExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonExit.xnb</Output>
+      <Time>2012-08-22T14:23:30.7290959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonPause.png</Source>
+      <Name>Graphics\BouttonPause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonPause.xnb</Output>
+      <Time>2012-08-21T23:29:07.0781904-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonMenu.png</Source>
+      <Name>Graphics\BouttonMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonMenu.xnb</Output>
+      <Time>2012-08-21T23:33:10.4781121-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonMusic.png</Source>
+      <Name>Graphics\BouttonMusic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonMusic.xnb</Output>
+      <Time>2012-08-22T14:10:48.6745088-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonSound.png</Source>
+      <Name>Graphics\BouttonSound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonSound.xnb</Output>
+      <Time>2012-08-22T14:14:59.5708593-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonLong.png</Source>
+      <Name>Graphics\BouttonLong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonLong.xnb</Output>
+      <Time>2012-08-21T23:43:00.5448619-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonMedium.png</Source>
+      <Name>Graphics\BouttonMedium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonMedium.xnb</Output>
+      <Time>2012-08-21T23:42:49.3002188-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonShort.png</Source>
+      <Name>Graphics\BouttonShort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonShort.xnb</Output>
+      <Time>2012-08-21T23:42:39.5276598-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonTiny.png</Source>
+      <Name>Graphics\BouttonTiny</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonTiny.xnb</Output>
+      <Time>2012-08-21T23:42:29.8841082-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonDo.png</Source>
+      <Name>Graphics\BouttonDo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonDo.xnb</Output>
+      <Time>2012-08-22T14:29:37.5600774-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonBarracks.png</Source>
+      <Name>Graphics\BouttonBarracks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonBarracks.xnb</Output>
+      <Time>2012-08-22T14:46:51.4422121-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonBridge.png</Source>
+      <Name>Graphics\BouttonBridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonBridge.xnb</Output>
+      <Time>2012-08-22T14:48:44.4866778-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonDeforestation.png</Source>
+      <Name>Graphics\BouttonDeforestation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonDeforestation.xnb</Output>
+      <Time>2012-08-22T14:42:43.2210146-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonForestation.png</Source>
+      <Name>Graphics\BouttonForestation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonForestation.xnb</Output>
+      <Time>2012-08-22T14:42:54.3496512-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonHouse.png</Source>
+      <Name>Graphics\BouttonHouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonHouse.xnb</Output>
+      <Time>2012-08-22T14:45:42.905292-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonGreenhouse.png</Source>
+      <Name>Graphics\BouttonGreenhouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonGreenhouse.xnb</Output>
+      <Time>2012-08-22T14:52:53.9379456-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonTemple.png</Source>
+      <Name>Graphics\BouttonTemple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonTemple.xnb</Output>
+      <Time>2012-08-22T14:54:48.3124875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonWorkshop.png</Source>
+      <Name>Graphics\BouttonWorkshop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonWorkshop.xnb</Output>
+      <Time>2012-08-22T14:53:43.8538007-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonBuilder.png</Source>
+      <Name>Graphics\BouttonBuilder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonBuilder.xnb</Output>
+      <Time>2012-08-22T15:02:42.6816199-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonPriest.png</Source>
+      <Name>Graphics\BouttonPriest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonPriest.xnb</Output>
+      <Time>2012-08-22T15:02:53.0022102-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonWarrior.png</Source>
+      <Name>Graphics\BouttonWarrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonWarrior.xnb</Output>
+      <Time>2012-08-22T15:03:08.0910732-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonBabies.png</Source>
+      <Name>Graphics\BouttonBabies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonBabies.xnb</Output>
+      <Time>2012-08-22T15:09:17.4231978-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\BouttonSummon.png</Source>
+      <Name>Graphics\BouttonSummon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\Graphics\BouttonSummon.xnb</Output>
+      <Time>2012-08-22T15:07:48.0880881-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DFFA5C8B-D011-40FB-9D1F-2D91D35948AA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Guillaume\Documents\My Games\TinyWorld\LudumDare23\LudumDare23\LudumDare23\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-18T19:06:05.1710254-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
